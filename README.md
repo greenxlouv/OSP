@@ -1,3 +1,2 @@
-# hello_world
-this is a repository of hello-world practice
-I'm addin' a line to README here!
+# OSP Week 03
+1. css를 활용한 자기소개 페이지 수정버전
